@@ -1663,6 +1663,14 @@
     "symbol": "stXYM",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x8F5E78888f8933Ed676a62bB6B58a4b279aBE408/logo.png"
+  },
+  {
+    "address": "0xfa1184b73a24c5426103766579a2ca9dd4e465f2",
+    "chainId": 1,
+    "name": "Sun",
+    "symbol": "SUN",
+    "decimals": 20,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0xD23Ac27148aF6A2f339BD82D0e3CFF380b5093de/logo.png"
   }
   ],
   "version": {
